@@ -1,5 +1,7 @@
 # Power_BI_Dashboards
 
+NOTE : MUST HAVE THE "POWER BI DESKTOP" TO VIEW THE DASHBOARD.
+
 Created a dashboard on the attrition, based on data of a regular company.
 Used cards, charts, tables and matrix.
 
