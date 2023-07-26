@@ -1,4 +1,5 @@
-# Power_BI_Dashboards
+# Analysis of Attrition in a company | POWER BI
+
 
 NOTE : MUST HAVE THE "POWER BI DESKTOP" TO VIEW THE DASHBOARD.
 
